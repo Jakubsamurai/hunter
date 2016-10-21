@@ -1,0 +1,3 @@
+# hunter
+We intend to be a Google-like package finder for apt-get
+More to come... stay tuned...
